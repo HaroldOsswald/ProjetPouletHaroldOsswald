@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: e4f202708e1cecb4796e75d9eef36eb4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bo__te009
+    100002: champi
+    100004: doublePierre
+    100006: GrossePierre
+    100008: PetitChampi
+    100010: PetitePierre
+    100012: PetitePierre001
+    100014: planche
+    100016: planche 1
+    100018: plante
+    100020: Porte
+    100022: //RootNode
+    400000: Bo__te009
+    400002: champi
+    400004: doublePierre
+    400006: GrossePierre
+    400008: PetitChampi
+    400010: PetitePierre
+    400012: PetitePierre001
+    400014: planche
+    400016: planche 1
+    400018: plante
+    400020: Porte
+    400022: //RootNode
+    2300000: Bo__te009
+    2300002: champi
+    2300004: doublePierre
+    2300006: GrossePierre
+    2300008: PetitChampi
+    2300010: PetitePierre
+    2300012: PetitePierre001
+    2300014: planche
+    2300016: planche 1
+    2300018: plante
+    2300020: Porte
+    3300000: Bo__te009
+    3300002: champi
+    3300004: doublePierre
+    3300006: GrossePierre
+    3300008: PetitChampi
+    3300010: PetitePierre
+    3300012: PetitePierre001
+    3300014: planche
+    3300016: planche 1
+    3300018: plante
+    3300020: Porte
+    4300000: Porte
+    4300002: doublePierre
+    4300004: PetitePierre
+    4300006: Bo__te009
+    4300008: GrossePierre
+    4300010: planche
+    4300012: planche
+    4300014: champi
+    4300016: PetitChampi
+    4300018: PetitePierre001
+    4300020: plante
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

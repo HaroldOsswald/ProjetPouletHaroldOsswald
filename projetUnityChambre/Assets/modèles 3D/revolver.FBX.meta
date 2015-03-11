@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 8f2737c7d737c5c4d93b6b7b1cca5616
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bague gachette
+    100002: barillet
+    100004: barillet2
+    100006: canon
+    100008: canon2
+    100010: chargeur
+    100012: chargeur2
+    100014: chien
+    100016: crosse
+    100018: gachette
+    100020: //RootNode
+    400000: bague gachette
+    400002: barillet
+    400004: barillet2
+    400006: canon
+    400008: canon2
+    400010: chargeur
+    400012: chargeur2
+    400014: chien
+    400016: crosse
+    400018: gachette
+    400020: //RootNode
+    2300000: bague gachette
+    2300002: barillet
+    2300004: barillet2
+    2300006: canon
+    2300008: canon2
+    2300010: chargeur
+    2300012: chargeur2
+    2300014: chien
+    2300016: crosse
+    2300018: gachette
+    3300000: bague gachette
+    3300002: barillet
+    3300004: barillet2
+    3300006: canon
+    3300008: canon2
+    3300010: chargeur
+    3300012: chargeur2
+    3300014: chien
+    3300016: crosse
+    3300018: gachette
+    4300000: canon
+    4300002: chargeur
+    4300004: canon2
+    4300006: barillet
+    4300008: barillet2
+    4300010: crosse
+    4300012: chargeur2
+    4300014: chien
+    4300016: bague gachette
+    4300018: gachette
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
